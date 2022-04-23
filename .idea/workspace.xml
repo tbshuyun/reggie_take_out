@@ -22,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -41,6 +44,7 @@
     <option name="jreName" value="1.8" />
   </component>
   <component name="ProjectId" id="27xEQidThXP1xfDIu6NqXXWWaLw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -129,12 +133,23 @@
       <workItem from="1650503769610" duration="17299000" />
       <workItem from="1650540248688" duration="8209000" />
       <workItem from="1650591763631" duration="24508000" />
-      <workItem from="1650704313979" duration="3224000" />
+      <workItem from="1650704313979" duration="3667000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
