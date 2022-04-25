@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2451d03-5ae1-48a0-a46d-aca4aa792081" name="Changes" comment="加入redis,缓存验证码" />
+    <list default="true" id="b2451d03-5ae1-48a0-a46d-aca4aa792081" name="Changes" comment="加入redis,缓存验证码">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +30,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="v1.0" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,6 +42,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -64,7 +72,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="E:/git/repository" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/itheima/reggie/config" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -80,11 +88,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\rjwm-pro\reggie_take_out\src\main\java\com\itheima\reggie\config" />
       <recent name="D:\project\rjwm-pro\reggie_take_out\src\main\java\com\itheima\reggie\controller" />
       <recent name="D:\project\rjwm-pro\reggie_take_out\src\main\java\com\itheima\reggie\service\impl" />
       <recent name="D:\project\rjwm-pro\reggie_take_out\src\main\java\com\itheima\reggie\service" />
       <recent name="D:\project\rjwm-pro\reggie_take_out\src\main\java\com\itheima\reggie\mapper" />
-      <recent name="D:\project\rjwm-pro\reggie_take_out\src\main\resources\front\js" />
     </key>
   </component>
   <component name="RunManager" selected="Spring Boot.ReggieApplication">
@@ -140,7 +148,7 @@
       <workItem from="1650540248688" duration="8209000" />
       <workItem from="1650591763631" duration="24508000" />
       <workItem from="1650704313979" duration="3667000" />
-      <workItem from="1650880563032" duration="922000" />
+      <workItem from="1650880563032" duration="2371000" />
     </task>
     <task id="LOCAL-00001" summary="加入redis,缓存验证码">
       <created>1650878394164</created>
@@ -177,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650880708641</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="加入redis,缓存验证码">
+      <created>1650883580968</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1650883580968</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
